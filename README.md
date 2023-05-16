@@ -25,7 +25,7 @@ To run this application follow these steps   ------------------
         {   
            Frontend Part  ->
            cd client
-           npm run start
+           npm start
         }
         {
            Backend Part  ->
